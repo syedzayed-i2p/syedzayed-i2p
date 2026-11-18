@@ -18,7 +18,7 @@ I am currently in my 8th semester studying Electronics Technology at Barishal Po
 ### GitHub Analytics
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=syedzayed-i2p&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&cache_seconds=1800&v=1.1" alt="Syed Zayed Hassan GitHub Stats" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=syedzayed-i2p&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&hide=prs,issues,contribs&cache_seconds=1800&v=1.1" alt="Syed Zayed Hassan GitHub Stats" />
   <img height="170em" src="https://streak-stats.demolab.com?user=syedzayed-i2p&theme=tokyonight&hide_border=true&border_radius=8&cache_seconds=1800&v=1.1" alt="Syed Zayed Hassan GitHub Streak" />
   <img height="170em" src="https://github-readme-activity-graph.vercel.app/graph?username=syedzayed-i2p&bg_color=1A1B27&color=70A5FD&line=38EFA0&point=FFFFFF&area=true&hide_border=true&border_radius=8&cache_seconds=1800&v=1.1" alt="Syed Zayed Hassan Contribution Graph" />
 </div>
